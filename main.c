@@ -2,7 +2,9 @@
 
 int main()
 {
-    std::cout << "Hello ITDays" << std::endl;
+    int version = 3;
+
+    std::cout << "Hello ITDays " << version << std::endl;
 
     return 0;
 }
